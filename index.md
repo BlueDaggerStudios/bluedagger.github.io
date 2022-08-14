@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blue Dagger Studios
 
 You can use the [editor on GitHub](https://github.com/BlueDaggerStudios/bluedagger.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
